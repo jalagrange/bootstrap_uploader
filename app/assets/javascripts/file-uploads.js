@@ -10,8 +10,13 @@
 // WARNING: THE FIRST BLANK LINE MARKS THE END OF WHAT'S TO BE PROCESSED, ANY BLANK LINE SHOULD
 // GO AFTER THE REQUIRES BELOW.
 //
-//= require jquery
-//= require jquery_ujs
-//= require bootstrap
-//= require bootstrap-image-gallery.min
-//= require file-uploads
+//= require JQuery-File-Upload/jquery.ui.widget.js
+//= require JQuery-File-Upload/tmpl.min.js
+//= require JQuery-File-Upload/load-image.min.js
+//= require JQuery-File-Upload/canvas-to-blob.min.js
+//= require JQuery-File-Upload/jquery.iframe-transport.js
+//= require JQuery-File-Upload/jquery.fileupload.js
+//= require JQuery-File-Upload/jquery.fileupload-fp.js
+//= require JQuery-File-Upload/locale.js
+//= require JQuery-File-Upload/main.js
+
