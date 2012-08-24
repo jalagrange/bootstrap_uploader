@@ -1,0 +1,11 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  hello: "Hello world"
+  fileupload:
+    add_files: "Add files..."
+    start_upload: "Start upload"
+    cancel_upload: "Cancel upload"
+    delete_multi: "Delete"
+    delete: "Löschen"

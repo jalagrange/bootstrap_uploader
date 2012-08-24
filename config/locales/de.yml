@@ -1,0 +1,8 @@
+
+de:
+  fileupload:
+    add_files: "Dateien hinzufügen"
+    start_upload: "Upload starten"
+    cancel_upload: "Upload abbrechen"
+    delete_multi: "Auswahl löschen"
+    delete: "Löschen"
