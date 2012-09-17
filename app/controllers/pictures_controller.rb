@@ -11,7 +11,7 @@ class PicturesController < ApplicationController
 
   def create
     @picture = Picture.new
-    @picture.avatar = params[:picture][:path]
+    @picture.avatar = params[:picture][:path].shift
     if @picture.save
       respond_to do |format|
         format.html {                                         #(html response is for browsers using iframe sollution)
